@@ -1,0 +1,8 @@
+mode: set
+github.com/erikdenisrs97/tests/main.go:9.13,12.2 2 0
+github.com/erikdenisrs97/tests/addresses/addresses.go:6.41,14.39 5 1
+github.com/erikdenisrs97/tests/addresses/addresses.go:14.39,15.36 1 1
+github.com/erikdenisrs97/tests/addresses/addresses.go:15.36,17.4 1 1
+github.com/erikdenisrs97/tests/addresses/addresses.go:20.2,20.17 1 1
+github.com/erikdenisrs97/tests/addresses/addresses.go:20.17,22.3 1 1
+github.com/erikdenisrs97/tests/addresses/addresses.go:24.2,24.24 1 1
